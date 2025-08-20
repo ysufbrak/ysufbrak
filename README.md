@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Yusuf Borak. <br><br>A Software Developer who is keen to learn more, with a strong focus on Python, AI, and data science.</h3>
+<h3 align="left">Hi 👋! Name is Yusuf. <br><br>A Software Developer who is keen to learn more, with a strong focus on Python, AI, and data science.</h3>
 
 ###
 
